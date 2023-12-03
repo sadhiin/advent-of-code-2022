@@ -1,6 +1,6 @@
 <img src="advent-of-code.jpg" width="350" align="right" />
 
-# Advent of Code 2022
+# Advent of Code
 
 ## What is Advent of Code?
 
